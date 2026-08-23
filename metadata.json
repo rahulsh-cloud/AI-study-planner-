@@ -1,0 +1,6 @@
+{
+  "name": "AI Study Planner",
+  "description": "A full-stack AI study planner and academic copilot for students with personalized study plans, smart timetables, weak-area detection, spaced revision, quizzes, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
